@@ -1,0 +1,6 @@
+@inproceedings{10.1145/3448016.3457319,
+author = {Jin, Wen and Qian, Weining and Zhou, Aoying},
+title = {Efficient String Sort with Multi-character Encoding and Adaptive Sampling},
+year = {2021},
+booktitle = {Proceedings of the 2021 International Conference on Management of Data},
+pages = {872¨C884}}
