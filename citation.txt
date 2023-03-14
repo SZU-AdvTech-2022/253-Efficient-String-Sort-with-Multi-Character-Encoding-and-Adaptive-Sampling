@@ -1,0 +1,7 @@
+@inproceedings{REPO-254,
+    author = "Jin, Wen and Qian, Weining and Zhou, Aoying",
+    booktitle = "Proceedings of the 2021 International Conference on Management of Data",
+    pages = "872¨C884",
+    title = "{Efficient String Sort with Multi-character Encoding and Adaptive Sampling}",
+    year = "2021"
+}
